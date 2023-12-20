@@ -1,0 +1,208 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.mainbox {
+  width: 1050px;
+  height: 1000px; /* will be removed once page is done*/
+  background-color: white;
+  padding: 15px;
+  border: 3px solid gray;
+  text-align: left;
+}
+
+.topbox {
+    width: 800px;
+    height: 35px;
+    background-color: gray;
+    border: 1px white;
+    padding: 8px;
+    text-align: left;
+    font-size: 18pt;
+    font-family: bernard MT;
+    font-weight: 600;
+  }
+
+.topwhitefont {
+  color: white;
+    font-style: initial;
+    font-family: bernard MT;
+    font-size: 18pt;
+    font-weight: 300;
+  }
+
+.middlebox {
+    width: 800px;
+    height: 35px;
+    background-color: gray;
+    border: 1px white;
+    padding: 8px;
+    }
+
+.bottombox {
+    width: 800px;
+    height: 35px;
+    background-color: gray;
+    border: 1px white;
+    padding-top: 7px;
+    font-size: 12pt;
+    color: white;
+    font-style: italic;
+  
+}
+
+.paddingbox {
+  width: 800px;
+    height: 35px;
+    background-color: white;
+    padding: 4px;
+    
+
+}
+
+main {
+  background-color:white;
+  padding-top: 1px;
+  
+  height: 335px;
+  padding-right: 60px;
+  padding-left: 105px;
+}
+
+nav {
+  background-color: white;
+  padding-top: 10px;
+  height: 370px;
+  padding-right: 60px;
+  padding-left: 105px;
+}
+
+.imagebox {
+  background-color: brown;
+  width: 100px;
+  height: 110px;
+  border: 2px solid white;
+  float: left;
+  
+  
+}
+
+.linkbox {
+  background-color: darkblue;
+  width: 100px;
+  height: 110px;
+  border: 2px solid white;
+  float: left;
+
+}
+
+.whitebox {
+  background-color: white;
+  width: 100px;
+  height: 110px;
+  border: 2px solid white;
+  float: left;
+    
+}
+.linkpara {
+  font-size: 12pt;
+  font-family: bernard MT;
+  text-align-last: left;
+  color: white;
+  padding-top: 70px;
+  padding-left: 10px;
+  
+
+}
+
+nav a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 12pt;
+
+}
+
+nav a:visited {
+  color: white;
+ 
+  font-size: 12pt;
+
+}
+
+nav a:hover {
+  background-color: darkblue;
+  color: white;
+  font-weight: 300;
+  text-decoration: underline;
+  font-size: 12pt;
+
+}
+
+
+.lastbox {
+  width: 200px;
+  height: 200px;
+  background-color: lightslategrey;
+  border: 0px white;
+  float: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+  }
+
+  .lastbox1 {
+    width: 200px;
+    height: 200px;
+    background-color: lightslategrey;
+    border: 0px white;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+  
+footer {
+  background-color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+
+
+.smallbox1 {
+  width: 85x;
+  height: 20px;
+  background-color: grey;
+  padding-left: 10px;
+  float: left ;
+
+}
+
+.smallbox2{
+  width: 75px;
+  height: 20px;
+  background-color: grey;
+  padding-left: 30px;
+  float: right;
+}
+
+.smallbox3 {
+  width: 180px;
+  height: 40px;
+  background-color: grey;
+  padding-left: 10px;
+  float: right;
+  font-size: 16pt;
+  font-style: italic;
+  font-weight: bold;
+  color: white;
+}
